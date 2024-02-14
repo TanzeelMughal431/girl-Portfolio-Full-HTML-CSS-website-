@@ -1,6 +1,3 @@
-Certainly! Here's a more beginner-friendly README.md with added compliments on your design:
-
----
 
 # Welcome to My Website!
 
